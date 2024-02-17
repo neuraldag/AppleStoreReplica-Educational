@@ -94,6 +94,7 @@ final class CardVC: UIViewController, UIScrollViewDelegate, UITextFieldDelegate 
         return cardBuyButton
     }()
     
+    
     //Delivery info
     private let deliveryIcon: UIImageView = {
         let deliveryIcon = UIImageView()

@@ -19,10 +19,10 @@
 		EF74F7492B6111060086C7E3 /* ShopVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF74F7482B6111060086C7E3 /* ShopVC.swift */; };
 		EF74F74B2B6111110086C7E3 /* AccountVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF74F74A2B6111110086C7E3 /* AccountVC.swift */; };
 		EF74F76D2B6161830086C7E3 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF74F76C2B6161830086C7E3 /* Model.swift */; };
-		EF903E952B6CEEFD00DAA698 /* apple intro.mov in Resources */ = {isa = PBXBuildFile; fileRef = EF903E942B6CEEFC00DAA698 /* apple intro.mov */; };
 		EFB217752B6BC5FD00ABBD51 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB217742B6BC5FD00ABBD51 /* PageViewController.swift */; };
 		EFB217772B6BC76900ABBD51 /* PVCHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB217762B6BC76900ABBD51 /* PVCHelper.swift */; };
 		EFB217792B6BCFA200ABBD51 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB217782B6BCFA200ABBD51 /* WelcomeViewController.swift */; };
+		EFB281FE2B811EEB009ED4B5 /* apple intro.mov in Resources */ = {isa = PBXBuildFile; fileRef = EFB281FD2B811EEB009ED4B5 /* apple intro.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,10 +42,10 @@
 		EF74F7482B6111060086C7E3 /* ShopVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopVC.swift; sourceTree = "<group>"; };
 		EF74F74A2B6111110086C7E3 /* AccountVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountVC.swift; sourceTree = "<group>"; };
 		EF74F76C2B6161830086C7E3 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
-		EF903E942B6CEEFC00DAA698 /* apple intro.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = "apple intro.mov"; path = "../../../../Desktop/apple intro.mov"; sourceTree = "<group>"; };
 		EFB217742B6BC5FD00ABBD51 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		EFB217762B6BC76900ABBD51 /* PVCHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PVCHelper.swift; sourceTree = "<group>"; };
 		EFB217782B6BCFA200ABBD51 /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
+		EFB281FD2B811EEB009ED4B5 /* apple intro.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = "apple intro.mov"; path = "../../../../Desktop/apple intro.mov"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,10 +82,10 @@
 			children = (
 				EF74F7302B610F550086C7E3 /* AppDelegate.swift */,
 				EF74F7322B610F550086C7E3 /* SceneDelegate.swift */,
-				EF903E942B6CEEFC00DAA698 /* apple intro.mov */,
 				EF74F7392B610F570086C7E3 /* Assets.xcassets */,
 				EF74F7362B610F550086C7E3 /* Main.storyboard */,
 				EF74F73B2B610F570086C7E3 /* LaunchScreen.storyboard */,
+				EFB281FD2B811EEB009ED4B5 /* apple intro.mov */,
 			);
 			path = Supporting;
 			sourceTree = "<group>";
@@ -195,7 +195,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EF74F73D2B610F570086C7E3 /* LaunchScreen.storyboard in Resources */,
-				EF903E952B6CEEFD00DAA698 /* apple intro.mov in Resources */,
+				EFB281FE2B811EEB009ED4B5 /* apple intro.mov in Resources */,
 				EF74F73A2B610F570086C7E3 /* Assets.xcassets in Resources */,
 				EF74F7382B610F550086C7E3 /* Main.storyboard in Resources */,
 			);
